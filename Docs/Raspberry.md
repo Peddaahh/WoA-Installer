@@ -36,4 +36,4 @@ Download it from **[here](https://1drv.ms/f/s!AtXoQFW327DIyMxxCDU_uUM6o6dn2A)**.
 Run WoA Installer and go to the **Advanced** section. Click on `[Import Core Package]` and select the package directly. Don't attempt to uncompress it. After the import operation, you will be able to use deploy Windows.
 
 # Donations are welcome!
-If you find this useful, feel free to [buy me a coffee](http://paypal.me/superjmn). Thanks in advance!!
+If you find this useful, feel free to [buy me a coffee](http://paypal.me/PeterLassnig). Thanks in advance!!
